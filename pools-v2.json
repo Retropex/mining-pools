@@ -11,18 +11,6 @@
     "link": "https://www.blockfills.com/mining"
   },
   {
-    "id": 2,
-    "name": "ULTIMUSPOOL",
-    "addresses": [
-      "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi",
-      "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd"
-    ],
-    "tags": [
-      "/ultimus/"
-    ],
-    "link": "https://www.ultimuspool.com"
-  },
-  {
     "id": 3,
     "name": "Terra Pool",
     "addresses": [
@@ -37,20 +25,6 @@
     "link": "https://terrapool.io"
   },
   {
-    "id": 4,
-    "name": "Luxor",
-    "addresses": [
-      "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe",
-      "39bitUyBcUu3y3hRTtYprKbTp712t4ZWqK",
-      "32BfKjhByDSxx3BM5vUkQ3NQq9csZR6nt6"
-    ],
-    "tags": [
-      "/LUXOR/",
-      "Luxor Tech"
-    ],
-    "link": "https://mining.luxor.tech"
-  },
-  {
     "id": 5,
     "name": "1THash",
     "addresses": [
@@ -62,23 +36,6 @@
       "/1THash/"
     ],
     "link": "https://www.1thash.top"
-  },
-  {
-    "id": 6,
-    "name": "BTC.com",
-    "addresses": [
-      "1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5",
-      "34qkc2iac6RsyxZVfyE2S5U5WcRsbg2dpK",
-      "3EhLZarJUNSfV6TWMZY1Nh5mi3FMsdHa5U",
-      "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv",
-      "bc1qjl8uwezzlech723lpnyuza0h2cdkvxvh54v3dn"
-    ],
-    "tags": [
-      "/BTC.COM/",
-      "/BTC.com/",
-      "btccom"
-    ],
-    "link": "https://pool.btc.com"
   },
   {
     "id": 7,
@@ -450,20 +407,8 @@
     "link": "https://give-me-coins.com"
   },
   {
-    "id": 43,
-    "name": "Braiins Pool",
-    "addresses": [
-      "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr",
-      "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE"
-    ],
-    "tags": [
-      "/slush/"
-    ],
-    "link": "https://braiins.com/pool"
-  },
-  {
     "id": 44,
-    "name": "AntPool",
+    "name": "AntPool & friends",
     "addresses": [
       "12dRugNcdxK39288NjcDV4GX7rMsKCGn6B",
       "15kiNKfDWsq7UsPg87UwxA8rVvWAjzRkYS",
@@ -501,12 +446,67 @@
       "1Pzf7qT7bBGouvnjRvtRD8VhTyqjX1NrJT",
       "1Sjj2cPC3rTWcSTEYDeu2f3BavLosog4T",
       "1jLVpwtNMfXWaHY4eiLDmGuBxokYLgv1X",
-      "3FaYVQF6wCMUB9NCeRe4tUp1zZx8qqM7H1"
+      "3FaYVQF6wCMUB9NCeRe4tUp1zZx8qqM7H1",
+      "14sA8jqYQgMRQV9zUtGFvpeMEw7YDn77SK",
+      "17tUZLvy3X2557JGhceXRiij2TNYuhRr4r",
+      "1E8CZo2S3CqWg1VZSJNFCTbtT8hZPuQ2kB",
+      "1GNgwA8JfG7Kc8akJ8opdNWJUihqUztfPe",
+      "36n452uGq1x4mK7bfyZR8wgE47AnBb2pzi",
+      "3JQSigWTCHyBLRD979JWgEtWP5YiiFwcQB",
+      "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn",
+      "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr",
+      "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE",
+      "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi",
+      "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd",
+      "122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X",
+      "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw",
+      "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h",
+      "1JvXhnHCi6XqcanvrZJ5s2Qiv4tsmm2UMy",
+      "3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ",
+      "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4",
+      "3G7jcEELKh38L6kaSV8K35pTqsh5bgZW2D",
+      "3Awm3FNpmwrbvAFVThRUFqgpbVuqWisni9",
+      "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR",
+      "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b",
+      "35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83",
+      "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W",
+      "3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6",
+      "bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37",
+      "bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380",
+      "bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9",
+      "bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc",
+      "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe",
+      "39bitUyBcUu3y3hRTtYprKbTp712t4ZWqK",
+      "32BfKjhByDSxx3BM5vUkQ3NQq9csZR6nt6",
+      "1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5",
+      "34qkc2iac6RsyxZVfyE2S5U5WcRsbg2dpK",
+      "3EhLZarJUNSfV6TWMZY1Nh5mi3FMsdHa5U",
+      "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv",
+      "bc1qjl8uwezzlech723lpnyuza0h2cdkvxvh54v3dn",
+      "3GdjWJdkJhtkxRZ3Ns1LstaoHNMBW8XsvU",
+      "3AvXzTUat4p6Qf6ZLnRNvB3mDLjp3fNmjJ"
     ],
     "tags": [
       "/AntPool/",
       "Mined By AntPool",
-      "Mined by AntPool"
+      "Mined by AntPool",
+      "/poolin.com",
+      "/poolin/",
+      "/slush/",
+      "/ultimus/",
+      "/Binance/",
+      "binance",
+      "SecPool",
+      "/Sigmapool.com/",
+      "/Rawpool.com/",
+      "/LUXOR/",
+      "Luxor Tech",
+      "/BTC.COM/",
+      "/BTC.com/",
+      "btccom",
+      "MiningSquared",
+      "BSquared Network",
+      "/bsquared/"
     ],
     "link": "https://www.antpool.com"
   },
@@ -985,24 +985,6 @@
     "link": "https://www.dpool.top"
   },
   {
-    "id": 90,
-    "name": "Rawpool",
-    "addresses": [
-      "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b",
-      "35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83",
-      "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W",
-      "3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6",
-      "bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37",
-      "bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380",
-      "bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9",
-      "bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc"
-    ],
-    "tags": [
-      "/Rawpool.com/"
-    ],
-    "link": "https://www.rawpool.com"
-  },
-  {
     "id": 91,
     "name": "haominer",
     "addresses": [],
@@ -1030,24 +1012,6 @@
     "link": "https://bitcoin-ukraine.com.ua"
   },
   {
-    "id": 94,
-    "name": "Poolin",
-    "addresses": [
-      "14sA8jqYQgMRQV9zUtGFvpeMEw7YDn77SK",
-      "17tUZLvy3X2557JGhceXRiij2TNYuhRr4r",
-      "1E8CZo2S3CqWg1VZSJNFCTbtT8hZPuQ2kB",
-      "1GNgwA8JfG7Kc8akJ8opdNWJUihqUztfPe",
-      "36n452uGq1x4mK7bfyZR8wgE47AnBb2pzi",
-      "3JQSigWTCHyBLRD979JWgEtWP5YiiFwcQB",
-      "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn"
-    ],
-    "tags": [
-      "/poolin.com",
-      "/poolin/"
-    ],
-    "link": "https://www.poolin.com"
-  },
-  {
     "id": 95,
     "name": "SecretSuperstar",
     "addresses": [],
@@ -1064,17 +1028,6 @@
       "/tigerpool.net"
     ],
     "link": ""
-  },
-  {
-    "id": 97,
-    "name": "Sigmapool.com",
-    "addresses": [
-      "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR"
-    ],
-    "tags": [
-      "/Sigmapool.com/"
-    ],
-    "link": "https://sigmapool.com"
   },
   {
     "id": 98,
@@ -1151,24 +1104,6 @@
       "MiningCity"
     ],
     "link": "https://www.miningcity.com"
-  },
-  {
-    "id": 105,
-    "name": "Binance Pool",
-    "addresses": [
-      "122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X",
-      "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw",
-      "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h",
-      "1JvXhnHCi6XqcanvrZJ5s2Qiv4tsmm2UMy",
-      "3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ",
-      "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4",
-      "3G7jcEELKh38L6kaSV8K35pTqsh5bgZW2D"
-    ],
-    "tags": [
-      "/Binance/",
-      "binance"
-    ],
-    "link": "https://pool.binance.com"
   },
   {
     "id": 106,
@@ -1537,17 +1472,6 @@
     "link": "https://beta.zulupool.com/"
   },
   {
-    "id": 141,
-    "name": "SECPOOL",
-    "addresses": [
-      "3Awm3FNpmwrbvAFVThRUFqgpbVuqWisni9"
-    ],
-    "tags": [
-      "SecPool"
-    ],
-    "link": "https://www.secpool.com"
-  },
-  {
     "id": 142,
     "name": "OCEAN",
     "addresses": [
@@ -1739,16 +1663,6 @@
       "Public Pool on Umbrel"
     ],
     "link": "https://web.public-pool.io/"
-  },
-  {
-    "id": 161,
-    "name": "Mining Squared",
-    "addresses": [
-      "3GdjWJdkJhtkxRZ3Ns1LstaoHNMBW8XsvU",
-      "3AvXzTUat4p6Qf6ZLnRNvB3mDLjp3fNmjJ"
-    ],
-    "tags": ["MiningSquared", "BSquared Network", "/bsquared/"],
-    "link": "https://pool.bsquared.network/"
   },
   {
     "id": 162,
