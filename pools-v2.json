@@ -1808,13 +1808,24 @@
   },
   {
     "id": 168,
+    "name": "Léo",
+    "addresses": [
+      "my5dJiMcU4rZHEBDXBwgG2keNMFiYqBpkr"
+    ],
+    "tags": [
+      "Léo"
+    ],
+    "link": "https://x.com/leo_haf"
+  },
+  {
+    "id": 169,
     "name": "Braiins Solo",
     "addresses": [],
     "tags": ["/braiinssolo/"],
     "link": "https://solo.braiins.com"
   },
   {
-    "id": 169,
+    "id": 170,
     "name": "SoloPool.com",
     "addresses": [
       "bc1qreaftg3lr53nv84dnxhcvchmswevzlp9tdj2jd"
@@ -1823,7 +1834,7 @@
     "link": "https://solopool.com"
   },
   {
-    "id": 170,
+    "id": 171,
     "name": "Noderunners",
     "addresses": [],
     "tags": ["/Noderunners/"],
