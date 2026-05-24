@@ -1839,5 +1839,14 @@
     "addresses": [],
     "tags": ["/Noderunners/"],
     "link": "https://pool.noderunners.network"
+  },
+  {
+    "id": 172,
+    "name": "Philip D'Ath",
+    "addresses": [],
+    "tags": [
+      "Philip D'Ath"
+    ],
+    "link": "https://x.com/philip_dath"
   }
 ]
