@@ -1894,12 +1894,13 @@
     ],
     "link": "https://x.com/grassfedbitcoin"
   },
-{
+  {
     "id": 178,
     "name": "KC",
     "addresses": [],
     "tags": [
       "KC"
-    ]
+    ],
+    "link": "https://github.com/18650Engineer"
   }
-]
+]  
