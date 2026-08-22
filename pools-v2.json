@@ -1866,5 +1866,14 @@
       "PrivKey"
     ],
     "link": "https://privkey.io"
+  },
+  {
+    "id": 175,
+    "name": "Horizon",
+    "addresses": [],
+    "tags": [
+      "Horizon"
+    ],
+    "link": "https://horizon-btc.space"
   }
 ]
