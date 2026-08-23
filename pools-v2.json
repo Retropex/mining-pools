@@ -2011,5 +2011,16 @@
       "Sinnx3"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 191,
+    "name": "Ec1ipse",
+    "addresses": [
+      "tb1py2zvx4pp7frgt2rntgs84v4uh4x3xvmuaa8gara8gznatfzt7qwq7atwvu"
+    ],
+    "tags": [
+      "Ec1ipse"
+    ],
+    "link": "https://github.com/Ec1ipseCmd"
   }
 ]
