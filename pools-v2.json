@@ -2085,5 +2085,14 @@
       "BlakecoinMechanic"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 199,
+    "name": "boozy",
+    "addresses": [],
+    "tags": [
+      "boozy"
+    ],
+    "link": "https://nowhere.net"
   }
 ]
