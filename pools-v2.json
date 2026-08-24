@@ -2130,5 +2130,14 @@
       "Roughnecks"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 204,
+    "name": "Usury Is Evil",
+    "addresses": [],
+    "tags": [
+      "Usury Is Evil"
+    ],
+    "link": "https://exemple.com"
   }
 ]
