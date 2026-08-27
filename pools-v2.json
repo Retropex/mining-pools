@@ -2481,5 +2481,14 @@
       "Sherpa"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 243,
+    "name": "face $lap",
+    "addresses": [],
+    "tags": [
+      "face $lap"
+    ],
+    "link": "https://exemple.com"
   }
 ]
