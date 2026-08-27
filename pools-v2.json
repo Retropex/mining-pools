@@ -2490,5 +2490,23 @@
       "face $lap"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 244,
+    "name": "PlebMiner",
+    "addresses": [],
+    "tags": [
+      "PlebMiner"
+    ],
+    "link": "https://exemple.com"
+  },
+  {
+    "id": 245,
+    "name": "Sovereign",
+    "addresses": [],
+    "tags": [
+      "Sovereign"
+    ],
+    "link": "https://exemple.com"
   }
 ]
