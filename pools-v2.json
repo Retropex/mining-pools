@@ -2526,5 +2526,23 @@
       "Melvynsminers"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 248,
+    "name": "MBGA",
+    "addresses": [],
+    "tags": [
+      "MBGA"
+    ],
+    "link": "https://exemple.com"
+  },
+  {
+    "id": 249,
+    "name": "SC Lite",
+    "addresses": [],
+    "tags": [
+      "SC Lite"
+    ],
+    "link": "https://exemple.com"
   }
 ]
