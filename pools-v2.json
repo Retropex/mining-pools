@@ -2545,4 +2545,13 @@
     ],
     "link": "https://exemple.com"
   }
+  {
+    "id": 250,
+    "name": "4Ethos",
+    "addresses": [],
+    "tags": [
+      "4Ethos"
+    ],
+    "link": "https://exemple.com"
+  }
 ]
