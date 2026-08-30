@@ -2769,5 +2769,14 @@
       "ForkLift"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 275,
+    "name": "Blakechain",
+    "addresses": [],
+    "tags": [
+      "Blakechain"
+    ],
+    "link": "https://exemple.com"
   }
 ]
