@@ -2985,5 +2985,104 @@
       "spencer.has.coin"
     ],
     "link": "https://example.com"
+  },
+  {
+    "id": 299,
+    "name": "blake2b-mainnet",
+    "addresses": [],
+    "tags": [
+      "blake2b-mainnet"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 300,
+    "name": "Knots",
+    "addresses": [],
+    "tags": [
+      "Knots"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 301,
+    "name": "1ton",
+    "addresses": [],
+    "tags": [
+      "1ton"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 302,
+    "name": "Issou La Chancla",
+    "addresses": [],
+    "tags": [
+      "Issou La Chancla"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 303,
+    "name": "DATUM solo mined",
+    "addresses": [],
+    "tags": [
+      "DATUM solo mined"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 304,
+    "name": "This is not Bitcoin",
+    "addresses": [],
+    "tags": [
+      "This is not Bitcoin"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 305,
+    "name": "C-Rock",
+    "addresses": [],
+    "tags": [
+      "C-Rock"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 306,
+    "name": "Son of Satoshi",
+    "addresses": [],
+    "tags": [
+      "Son of Satoshi"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 307,
+    "name": "insert.coin",
+    "addresses": [],
+    "tags": [
+      "insert.coin"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 308,
+    "name": "garage",
+    "addresses": [],
+    "tags": [
+      "garage"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 309,
+    "name": "YoRHa",
+    "addresses": [],
+    "tags": [
+      "YoRHa"
+    ],
+    "link": "https://example.com"
   }
 ]
