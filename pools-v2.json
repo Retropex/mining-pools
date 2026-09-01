@@ -2839,7 +2839,8 @@
     "name": "Vspot",
     "addresses": [],
     "tags": [
-      "Vspot"
+      "Vspot",
+      "spot"
     ],
     "link": "https://example.com"
   },
@@ -3292,6 +3293,123 @@
     "addresses": [],
     "tags": [
       "Andy.Back"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 333,
+    "name": "IDGAF",
+    "addresses": [],
+    "tags": [
+      "IDGAF"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 334,
+    "name": "The Kayman",
+    "addresses": [],
+    "tags": [
+      "The Kayman"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 335,
+    "name": "HSBox2",
+    "addresses": [],
+    "tags": [
+      "HSBox2"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 336,
+    "name": "Hotsauce",
+    "addresses": [],
+    "tags": [
+      "Hotsauce"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 337,
+    "name": "Mustard Seed",
+    "addresses": [],
+    "tags": [
+      "Mustard Seed"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 338,
+    "name": "Toasted Coconut",
+    "addresses": [],
+    "tags": [
+      "Toasted Coconut"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 339,
+    "name": "this.is.Bitcoin",
+    "addresses": [],
+    "tags": [
+      "this.is.Bitcoin"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 340,
+    "name": "LVYT",
+    "addresses": [],
+    "tags": [
+      "LVYT"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 341,
+    "name": "Balkan Blake",
+    "addresses": [],
+    "tags": [
+      "Balkan Blake"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 342,
+    "name": "Commissaire Yatangaki",
+    "addresses": [],
+    "tags": [
+      "Commissaire Yatangaki"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 343,
+    "name": "End the Fed",
+    "addresses": [],
+    "tags": [
+      "End the Fed"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 344,
+    "name": "frenchbtc10",
+    "addresses": [],
+    "tags": [
+      "frenchbtc10"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 345,
+    "name": "0Bitcoin",
+    "addresses": [],
+    "tags": [
+      "0Bitcoin"
     ],
     "link": "https://example.com"
   }
