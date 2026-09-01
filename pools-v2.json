@@ -3084,5 +3084,16 @@
       "YoRHa"
     ],
     "link": "https://example.com"
+  },
+  {
+    "id": 310,
+    "name": "Pow.re",
+    "addresses": [
+      "3QvtQ9wKyfp22Z9anPUoHKBuCew4kdcAZt"
+    ],
+    "tags": [
+      "Pow.re"
+    ],
+    "link": "https://pow.re"
   }
 ]
