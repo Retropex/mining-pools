@@ -3647,5 +3647,16 @@
       "/c2pool/"
     ],
     "link": "https://github.com/frstrtr/c2pool"
+   },
+  {
+    "id": 372,
+    "name": "The Hash Reality",
+    "addresses": [
+      "bc1q23qy22zku59hsqz7tkyqzy57fhkjnuz8zyk69v"
+    ],
+    "tags": [
+      "/The Hash Reality/"
+    ],
+    "link": "https://thehashreality.com"
   }
 ]
