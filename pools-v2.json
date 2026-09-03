@@ -3637,5 +3637,15 @@
       "Anthurium Grower"
     ],
     "link": "https://example.com"
+  },
+  {
+    "id": 371,
+    "name": "c2pool",
+    "addresses": [],
+    "tags": [
+      "/c2pool-btc/",
+      "/c2pool/"
+    ],
+    "link": "https://github.com/frstrtr/c2pool"
   }
 ]
