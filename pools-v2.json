@@ -2620,10 +2620,10 @@
   {
     "id": 258,
     "name": "CONVOY",
-    "addresses": [],
-    "tags": [
-      "CONVOY"
+    "addresses": [
+      "bc1qgymrl397jltqq0g9z2suqtghlfrz3yzm0m2xjw"
     ],
+    "tags": [],
     "link": "https://convoy.xyz"
   },
   {
