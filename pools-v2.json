@@ -4234,5 +4234,86 @@
       "Regenerous Baby"
     ],
     "link": "https://example.com"
+  },
+  {
+    "id": 437,
+    "name": "vrg",
+    "addresses": [],
+    "tags": [
+      "vrg"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 438,
+    "name": "Tyger Pool",
+    "addresses": [],
+    "tags": [
+      "Tyger Pool"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 439,
+    "name": "Gracias-BIP110",
+    "addresses": [],
+    "tags": [
+      "Gracias-BIP110"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 440,
+    "name": "Gracias-BIP110",
+    "addresses": [],
+    "tags": [
+      "Gracias-BIP110"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 441,
+    "name": "TIDES",
+    "addresses": [],
+    "tags": [
+      "TIDES"
+    ],
+    "link": "https://tides.maveth.ca"
+  },
+  {
+    "id": 442,
+    "name": "B2Pool",
+    "addresses": [],
+    "tags": [
+      "B2Pool"
+    ],
+    "link": "https://B2Pool.io"
+  },
+  {
+    "id": 443,
+    "name": "redlinerory",
+    "addresses": [],
+    "tags": [
+      "redlinerory"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 444,
+    "name": "Bogurodzica",
+    "addresses": [],
+    "tags": [
+      "Bogurodzica"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 445,
+    "name": "do unto others",
+    "addresses": [],
+    "tags": [
+      "do unto others"
+    ],
+    "link": "https://example.com"
   }
 ]
