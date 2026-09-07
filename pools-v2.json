@@ -3786,7 +3786,7 @@
   {
     "id": 387,
     "name": "Legata",
-    "addresses": [],
+    "addresses": ["bc1q9c33rjnas64hpgg5s769c29wnpqt3smwealagy"],
     "tags": [
       "Legata"
     ],
