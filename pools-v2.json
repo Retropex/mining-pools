@@ -1557,7 +1557,8 @@
     "tags": [
       "OCEAN.XYZ"
     ],
-    "link": "https://ocean.xyz/"
+    "link": "https://ocean.xyz/",
+    "DATUM": true
   },
   {
     "id": 143,
@@ -2624,7 +2625,8 @@
       "bc1qgymrl397jltqq0g9z2suqtghlfrz3yzm0m2xjw"
     ],
     "tags": [],
-    "link": "https://convoy.xyz"
+    "link": "https://convoy.xyz",
+    "DATUM": true
   },
   {
     "id": 259,
@@ -2832,7 +2834,8 @@
       "Lazarusi",
       "Lazarus"
     ],
-    "link": "https://example.com"
+    "link": "https://example.com",
+    "DATUM": true
   },
   {
     "id": 282,
@@ -3655,7 +3658,8 @@
     "tags": [
       "Bitcoin Xor"
     ],
-    "link": "https://xorpool.com"
+    "link": "https://xorpool.com",
+    "DATUM": true
   },
   {
     "id": 373,
@@ -4275,9 +4279,7 @@
     "id": 441,
     "name": "TIDES",
     "addresses": [],
-    "tags": [
-      "TIDES"
-    ],
+    "tags": [],
     "link": "https://tides.maveth.ca"
   },
   {
@@ -4313,6 +4315,79 @@
     "addresses": [],
     "tags": [
       "do unto others"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 446,
+    "name": "Tower7",
+    "addresses": [],
+    "tags": [
+      "Tower7"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 447,
+    "name": "Crucitas506",
+    "addresses": [],
+    "tags": [
+      "Crucitas506"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 448,
+    "name": "Blue Continent",
+    "addresses": [],
+    "tags": [
+      "Blue Continent"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 449,
+    "name": "HRMN-solo",
+    "addresses": [],
+    "tags": [
+      "HRMN-solo"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 450,
+    "name": "RIPTIDE",
+    "addresses": [],
+    "tags": [
+      "RIPTIDE"
+    ],
+    "link": "https://tides.maveth.ca",
+    "DATUM": true
+  },
+  {
+    "id": 451,
+    "name": "JALESBZNM Frasier",
+    "addresses": [],
+    "tags": [
+      "JALESBZNM Frasier"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 452,
+    "name": "Loaded_Diaper",
+    "addresses": [],
+    "tags": [
+      "Loaded_Diaper"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 453,
+    "name": "This is an Hommage to Ray Osmond Plato",
+    "addresses": [],
+    "tags": [
+      "This is an Hommage to Ray Osmond Plato"
     ],
     "link": "https://example.com"
   }
