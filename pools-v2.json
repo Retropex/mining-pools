@@ -4410,5 +4410,15 @@
     ],
     "link": "https://example.com",
     "DATUM": true
+  },
+  {
+    "id": 456,
+    "name": "Paperclip Pool",
+    "addresses": [],
+    "tags": [
+      "PaperclipPool"
+    ],
+    "link": "https://pool.paperclippool.xyz/",
+    "DATUM": true
   }
 ]
