@@ -4420,5 +4420,59 @@
     ],
     "link": "https://pool.paperclippool.xyz/",
     "DATUM": true
+  },
+  {
+    "id": 457,
+    "name": "CEO of LukeCoin",
+    "addresses": [],
+    "tags": [
+      "CEO of LukeCoin"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 458,
+    "name": "Rabid Pool",
+    "addresses": [],
+    "tags": [
+      "Rabid Pool"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 459,
+    "name": "xbtpool",
+    "addresses": [],
+    "tags": [
+      "xbtpool.io"
+    ],
+    "link": "https://xbtpool.io"
+  },
+  {
+    "id": 460,
+    "name": "Second Chance Digital",
+    "addresses": [],
+    "tags": [
+      "SecondChanceDigital"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 461,
+    "name": "Natio21",
+    "addresses": [],
+    "tags": [
+      "Natio21"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 462,
+    "name": "Balkan Solo",
+    "addresses": [],
+    "tags": [
+      "Balkan Solo"
+    ],
+    "link": "https://example.com"
   }
 ]
