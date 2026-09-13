@@ -3438,7 +3438,9 @@
   {
     "id": 348,
     "name": "AlphaPool",
-    "addresses": [],
+    "addresses": [
+      "bc1qlrmjpgg0e5jrhmzyjmtgc6dfpdr66sps8vjl2q"
+    ],
     "tags": [
       "AlphaPool"
     ],
