@@ -4474,5 +4474,15 @@
       "Balkan Solo"
     ],
     "link": "https://example.com"
+  },
+  {
+    "id": 463,
+    "name": "Blockvase",
+    "addresses": [],
+    "tags": [
+      "Blockvase"
+    ],
+    "link": "https://blockvase.com/",
+    "DATUM": true
   }
 ]
