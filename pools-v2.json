@@ -1943,12 +1943,12 @@
   },
   {
     "id": 183,
-    "name": "RATUM",
+    "name": "DxPool",
     "addresses": [],
     "tags": [
-      "RATUM"
+      "/nodeStratum/"
     ],
-    "link": "https://example.com"
+    "link": "https://www.dxpool.com"
   },
   {
     "id": 184,
@@ -3900,12 +3900,13 @@
   },
   {
     "id": 399,
-    "name": "pool.iohzrd.tech",
+    "name": "Omega Pool",
     "addresses": [],
     "tags": [
-      "pool.iohzrd.tech"
+      "pool.iohzrd.tech",
+      "omegapool.tech"
     ],
-    "link": "https://pool.iohzrd.tech"
+    "link": "https://omegapool.tech"
   },
   {
     "id": 400,
@@ -4486,5 +4487,14 @@
     ],
     "link": "https://blockvase.com/",
     "DATUM": true
+  },
+  {
+    "id": 464,
+    "name": "BTCB2-POOL",
+    "addresses": [],
+    "tags": [
+      "BTCB2-POOL"
+    ],
+    "link": "https://b2pool.io"
   }
 ]
