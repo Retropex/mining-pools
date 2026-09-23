@@ -3442,9 +3442,12 @@
       "bc1qlrmjpgg0e5jrhmzyjmtgc6dfpdr66sps8vjl2q"
     ],
     "tags": [
-      "AlphaPool"
+      "AlphaPool",
+      "DATUM-AP",
+      "DATUM-AlphaPool"
     ],
-    "link": "https://example.com"
+    "link": "https://alphapool.tech",
+    "DATUM": true
   },
   {
     "id": 349,
@@ -4411,8 +4414,7 @@
     "tags": [
       "DATUM-AlphaPool"
     ],
-    "link": "https://example.com",
-    "DATUM": true
+    "link": "https://example.com"
   },
   {
     "id": 456,
