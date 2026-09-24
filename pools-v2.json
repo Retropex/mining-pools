@@ -1946,9 +1946,11 @@
     "name": "DxPool",
     "addresses": [],
     "tags": [
-      "/nodeStratum/"
+      "/nodeStratum/",
+      "dxpool"
     ],
-    "link": "https://www.dxpool.com"
+    "link": "https://www.dxpool.com",
+    "DATUM": true
   },
   {
     "id": 184,
@@ -4498,5 +4500,14 @@
       "BTCB2-POOL"
     ],
     "link": "https://b2pool.io"
+  },
+  {
+    "id": 465,
+    "name": "Red Panda Mining",
+    "addresses": [],
+    "tags": [
+      "RedPandaMining"
+    ],
+    "link": "https://www.redpandamining.com"
   }
 ]
