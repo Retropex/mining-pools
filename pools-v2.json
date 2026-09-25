@@ -2627,7 +2627,9 @@
     "addresses": [
       "bc1qgymrl397jltqq0g9z2suqtghlfrz3yzm0m2xjw"
     ],
-    "tags": [],
+    "tags": [
+      "CONVOY"
+    ],
     "link": "https://convoy.xyz",
     "DATUM": true
   },
@@ -4509,5 +4511,79 @@
       "RedPandaMining"
     ],
     "link": "https://www.redpandamining.com"
+  },
+  {
+    "id": 466,
+    "name": "Crypto-Eire",
+    "addresses": [],
+    "tags": [
+      "Crypto-Eire"
+    ],
+    "link": "https://crypto-eire.com/",
+    "DATUM": true
+  },
+  {
+    "id": 467,
+    "name": "TerminusPool",
+    "addresses": [],
+    "tags": [
+      "TerminusPool"
+    ],
+    "link": "https://terminuspool.xyz/",
+    "DATUM": true
+  },
+  {
+    "id": 468,
+    "name": "YUMM-SOLO",
+    "addresses": [],
+    "tags": [
+      "YUMM-SOLO"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 469,
+    "name": "NotSpamChain",
+    "addresses": [],
+    "tags": [
+      "NotSpamChain"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 470,
+    "name": "tochaos",
+    "addresses": [],
+    "tags": [
+      "tochaos"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 471,
+    "name": "CryptoRob",
+    "addresses": [],
+    "tags": [
+      "CryptoRob"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 472,
+    "name": "CTRL",
+    "addresses": [],
+    "tags": [
+      "CTRL"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 473,
+    "name": "Sudi Mining Operations",
+    "addresses": [],
+    "tags": [
+      "Sudi Mining Operations"
+    ],
+    "link": "https://example.com"
   }
 ]
