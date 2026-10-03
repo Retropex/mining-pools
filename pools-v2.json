@@ -4585,5 +4585,16 @@
       "Sudi Mining Operations"
     ],
     "link": "https://example.com"
+  },
+  {
+    "id": 474,
+    "name": "TwentyOne.Life",
+    "addresses": [
+      "bc1q5fqaqmve62pvtvm78tf55a05nf72483v7whl5n"
+    ],
+    "tags": [
+      "TwentyOne.Life"
+    ],
+    "link": "https://twentyone.life"
   }
 ]
