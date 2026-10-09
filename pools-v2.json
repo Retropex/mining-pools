@@ -4293,15 +4293,18 @@
     "tags": [],
     "link": "https://tides.maveth.ca"
   },
-  {
-    "id": 442,
-    "name": "B2Pool",
-    "addresses": [],
-    "tags": [
-      "B2Pool"
-    ],
-    "link": "https://B2Pool.io"
-  },
+    {
+      "id": 442,
+      "name": "B2Pool",
+      "addresses": [
+        "bc1q8zqjfjep9yrxdkt7yhnxdzga95azs9hrw3vty4"
+      ],
+      "tags": [
+        "B2Pool"
+      ],
+      "link": "https://b2pool.io",
+      "DATUM": true
+    },
   {
     "id": 443,
     "name": "redlinerory",
