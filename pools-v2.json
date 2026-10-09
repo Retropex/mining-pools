@@ -4296,11 +4296,14 @@
   {
     "id": 442,
     "name": "B2Pool",
-    "addresses": [],
+    "addresses": [
+      "bc1q8zqjfjep9yrxdkt7yhnxdzga95azs9hrw3vty4"
+    ],
     "tags": [
       "B2Pool"
     ],
-    "link": "https://B2Pool.io"
+    "link": "https://b2pool.io",
+    "DATUM": true
   },
   {
     "id": 443,
